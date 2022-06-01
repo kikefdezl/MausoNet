@@ -1,0 +1,8 @@
+DATASET_LABELLING:
+  database_dir: "C:\\Users\\Kike\\Documents\\mausodb"
+  unlabelled: "unlabelled"
+  dog_label: "maus"
+  no_dog_label: "no_maus"
+  datasets: "datasets"
+
+dataset_save_dir: "1"
